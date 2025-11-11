@@ -5,7 +5,7 @@
 ### 1. Install Python Dependencies
 Make sure Python is installed on your operating system, then install the required dependencies using pip:
 ```bash
-pip install [dependencies listed in requirements]
+pip install --upgrade pillow mss requests
 ```
 
 ### 2. Install LM Studio
